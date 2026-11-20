@@ -78,8 +78,4 @@ Automatic matching depends on the host and task description. English instruction
 
 Already have the materials, but cannot understand the categories, fields or relationships? See [Classify and Restructure Complex Materials](https://github.com/cynthiawongss/restructure-complex-materials).
 
-## Origin and contributions
-
-Distilled from the author's resource-research practice with Codex assistance in drafting, translation and validation. To report a problem, provide a synthetic or redacted input, the expected behavior and the actual result.
-
-[MIT License](LICENSE) · [Method and image provenance](docs/PROVENANCE.md)
+[MIT License](LICENSE)

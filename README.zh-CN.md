@@ -82,8 +82,4 @@ https://github.com/cynthiawongss/purpose-led-resource-research/tree/main/skills/
 | 需要寻找资源并判断是否适合 | 当前项目 |
 | 已有一堆资料，但关系和字段看不懂 | [复杂资料分类与结构重组](https://github.com/cynthiawongss/restructure-complex-materials) |
 
-## 来源与贡献
-
-方法从作者的资源搜集与比较实践中提炼，由 Codex 协助整理、翻译和验证。欢迎提交具体输入、预期行为和实际结果，帮助改进判断规则。请使用虚构或已脱敏的材料。
-
-[MIT License](LICENSE) · [配图与方法来源](docs/PROVENANCE.md)
+[MIT License](LICENSE)
