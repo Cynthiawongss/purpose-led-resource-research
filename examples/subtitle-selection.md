@@ -1,6 +1,6 @@
 # 案例：挑选本地双语字幕工具
 
-[返回首页](../README.md) · [English](subtitle-selection.en.md)
+[返回首页](../README.zh-CN.md) · [English](subtitle-selection.en.md)
 
 这是虚构案例，所有产品和 .invalid 网址均为模拟材料。它展示判断过程，不推荐真实产品。
 

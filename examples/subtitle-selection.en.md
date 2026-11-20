@@ -1,6 +1,6 @@
 # Worked example: local bilingual subtitles
 
-[Home](../README.en.md) · [简体中文](subtitle-selection.md)
+[Home](../README.md) · [简体中文](subtitle-selection.md)
 
 All products and .invalid URLs are fictional. This illustrates decisions, not real recommendations.
 

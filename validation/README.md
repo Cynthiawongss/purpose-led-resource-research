@@ -1,4 +1,12 @@
-# 验证记录 / Validation record
+# Validation record / 验证记录
+
+## English summary
+
+Two isolated Codex evaluators, one per language, received instructions and raw fictional inputs without expected answers or the authoring conversation. They did not browse, install candidate products or mutate source materials. The release editor reviewed the actual artifacts against the inputs.
+
+Both executions consolidated the two WindowCaption sources, retained the macOS 13+ prerequisite, excluded hard failures, kept unknowns unresolved and gave no qualified recommendation when S1/S2 were removed. Recommendations remained documentation-based, not runtime-tested.
+
+This is a small simulated forward-test, not an automatic-trigger test, cross-model benchmark, comparison against no skill, or verification of real products. The scope probes show how the loaded instructions handled translation-only requests, not how the host's selector behaves.
 
 版本：0.1.0  
 日期：2026-11-20  
@@ -46,11 +54,3 @@
 ## 怎样复现
 
 新开独立执行环境，只给对应语言的技能文件与输入材料，执行材料中的请求，保存自己的结果。不要先读本目录的 runs 或本页检查结论。随后用上述要求评审实际结果。表述、分类名称和排版可以不同，关键是判断依据、信息保留与任务范围。
-
-## English summary
-
-Two isolated Codex evaluators, one per language, received instructions and raw fictional inputs without expected answers or the authoring conversation. They did not browse, install candidate products or mutate source materials. The release editor reviewed the actual artifacts against the inputs.
-
-Both executions consolidated the two WindowCaption sources, retained the macOS 13+ prerequisite, excluded hard failures, kept unknowns unresolved and gave no qualified recommendation when S1/S2 were removed. Recommendations remained documentation-based, not runtime-tested.
-
-This is a small simulated forward-test, not an automatic-trigger test, cross-model benchmark, comparison against no skill, or verification of real products. The scope probes show how the loaded instructions handled translation-only requests, not how the host's selector behaves.
