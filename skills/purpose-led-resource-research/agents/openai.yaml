@@ -1,0 +1,4 @@
+interface:
+  display_name: "按实际用途搜集和筛选资源"
+  short_description: "Find usable resources that fit your actual needs"
+  default_prompt: "Use $purpose-led-resource-research to compare resources for my task, constraints, and available evidence."
